@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<matrix-animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ic_launcher"
+        android:duration="100" />
+</matrix-animation-list>

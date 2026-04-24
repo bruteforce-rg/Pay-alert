@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pay Alert</string>
+    <string name="notification_listener_service_description">Listens for payment notifications</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+    <string name="enable_notification">Enable Notification Listener</string>
+    <string name="payment_received">Payment Received</string>
+    <string name="dashboard_title">Payment Alerts Dashboard</string>
+</resources>
